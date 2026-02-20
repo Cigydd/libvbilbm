@@ -1,10 +1,10 @@
 # CLAUDE.md – libvbilbm
 
-Knihovna pro čtení a zpracování grafického formátu Amiga IFF/ILBM.
-Součást projektu WIME, ale **samostatný gitový repositář**.
+Library for reading and processing the Amiga IFF/ILBM graphics format.
+Part of the WIME project, but a **separate Git repository**.
 
-## Správa deníků
+## Diary management
 
-Tento podprojekt má vlastní složku `diary/` se záznamy specifickými pro libvbilbm.
-Souhrnné záznamy se zapisují do hlavního deníku WIME (`../diary/`).
-Složka `diary/` bude vytvořena při prvním záznamu.
+This subproject has its own `diary/` folder with entries specific to libvbilbm.
+Summary entries go into the main WIME diary (`../diary/`).
+The `diary/` folder will be created on the first entry.
